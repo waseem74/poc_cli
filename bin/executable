@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative  '../lib/poc_cli.rb'
+
+PocCli::Cli.new.call
