@@ -10,6 +10,6 @@ require_relative  "poc_cli/phone"
 
 require_relative  "poc_cli/zip_code"
 
-require_relative  "poc_cli/regex_factory"
+require_relative "poc_cli/contact_factory"
 
 require 'uri'

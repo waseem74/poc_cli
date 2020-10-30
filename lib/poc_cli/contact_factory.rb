@@ -1,4 +1,4 @@
-class RegexFactory
+class ContactFactory
 
   def get_contact_obj(contact)
     if contact == "1"
