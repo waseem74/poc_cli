@@ -1,8 +1,6 @@
 # PocCli
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/poc_cli`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This project is an assignment. 
 
 ## Installation
 
@@ -22,7 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To start this project please run the following command:
+
+ruby bin/executable 
+
+A list of options will prompted to you.
+    1, for email
+    2, for phone number
+    3, for zip code
+    exit, to exit the program
 
 ## Development
 
